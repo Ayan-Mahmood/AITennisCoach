@@ -1,0 +1,14 @@
+{
+    "video_id": "video_d1",
+    "shot_quality": "good",
+    "features": {
+      "stance": "open",
+      "contact_point": "in front",
+      "follow_through": "complete",
+      "footwork": "balanced",
+      "readiness": "ready",
+      "ball_speed": "high",
+      "distance_from_ball": "good"
+    },
+    "addition_notes": "good forehand shot"
+}

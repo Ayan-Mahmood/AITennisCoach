@@ -1,0 +1,14 @@
+{
+    "video_id": "video_a6",
+    "shot_quality": "bad",
+    "features": {
+      "stance": "wide",
+      "contact_point": "on side",
+      "follow_through": "incomplete",
+      "footwork": "off balance",
+      "readiness": "ready",
+      "ball_speed": "high",
+      "distance_from_ball": "poor"
+    },
+    "addition_notes": "Player was late to the ball causing them to be off balance and too far. They were able to make contact with the ball but the follow through was incomplete."
+}

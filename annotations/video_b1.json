@@ -1,0 +1,14 @@
+{
+    "video_id": "video_b1",
+    "shot_quality": "bad",
+    "features": {
+      "stance": "open",
+      "contact_point": "on side",
+      "follow_through": "incomplete",
+      "footwork": "off balance",
+      "readiness": "ready",
+      "ball_speed": "low",
+      "distance_from_ball": "poor"
+    },
+    "addition_notes": "Player was too late to start their swing causing the ball to go into the net."
+}

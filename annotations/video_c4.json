@@ -1,0 +1,14 @@
+{
+    "video_id": "video_c4",
+    "shot_quality": "bad",
+    "features": {
+      "stance": "wide",
+      "contact_point": "in front",
+      "follow_through": "complete",
+      "footwork": "off balance",
+      "readiness": "ready",
+      "ball_speed": "high",
+      "distance_from_ball": "good"
+    },
+    "addition_notes": "Player is off balance and falling backwards when hitting the ball."
+}
