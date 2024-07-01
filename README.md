@@ -3,4 +3,4 @@ A computer vision project I made that takes in a clip of a person hitting a tenn
 
 Did not commit the frames folder because it was too much, but basically it contained a png image for each frame for every video clip. For example for video_a1 there would be a directory inside the frames folder named frames_a1 and it would have about 80 frames of the forehand swing.
 
-Go to model/model.ipynb to see the jupyter notebook with all the juicy details :)
+Go to model/model.ipynb to see the jupyter notebook with all the details
